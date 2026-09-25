@@ -9,16 +9,6 @@
         "bmi": 33.06,
         "verdict": "Obese"
     },
-    "P002": {
-        "name": "Ravi Mehta",
-        "city": "Mumbai",
-        "age": 35,
-        "gender": "male",
-        "height": 1.75,
-        "weight": 85,
-        "bmi": 27.76,
-        "verdict": "Overweight"
-    },
     "P003": {
         "name": "Sneha Kulkarni",
         "city": "Pune",
@@ -31,13 +21,13 @@
     },
     "P004": {
         "name": "Arjun Verma",
-        "city": "Mumbai",
-        "age": 40,
-        "gender": "male",
-        "height": 1.8,
-        "weight": 90.0,
-        "bmi": 27.78,
-        "verdict": "Normal"
+        "city": "Mathura",
+        "age": 20,
+        "gender": "Male",
+        "height": 100.0,
+        "weight": 110.0,
+        "bmi": 110.0,
+        "verdict": "Obesity"
     },
     "P005": {
         "name": "Neha Sinha",
